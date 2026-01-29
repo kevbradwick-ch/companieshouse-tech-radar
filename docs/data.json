@@ -9,9 +9,100 @@
       "moved": 0
     },
     {
+      "quadrant": 1,
+      "ring": 0,
+      "label": "Zookeeper",
+      "active": true,
+      "moved": 0
+    },
+    {
       "quadrant": 3,
       "ring": 0,
       "label": "AWS Transfer Family",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Oracle",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "MongoDB",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Redis",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "SQL Server",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Informix",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Snowflake",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 3,
+      "label": "Elasticsearch",
+      "active": true,
+      "moved": -1
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "AWS OpenSearch",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "PostgreSQL",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Kafka",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Kafka Manager",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "Java Messaging Service",
       "active": true,
       "moved": 0
     },
@@ -47,6 +138,36 @@
       "quadrant": 0,
       "ring": 3,
       "label": "Golang",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 0,
+      "label": "JavaScript (NodeJS)",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Visual Basic",
+      "active": true,
+      "moved": 0
+    },
+
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "VB.net",
+      "active": true,
+      "moved": 0
+    },
+
+    {
+      "quadrant": 0,
+      "ring": 3,
+      "label": "Scala",
       "active": true,
       "moved": 0
     }
